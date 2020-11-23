@@ -1,0 +1,10 @@
+aaaaa
+eeeee
+ggggg
+<<<<<<< HEAD
+hhhhh
+=======
+hhhhh
+iiiiiiii
+jjjjjj
+>>>>>>> abcdbranch
